@@ -28,4 +28,12 @@ LCD server
 ==
 https://mainnet-node.like.co/
 
+Use with Keplr wallet
+==
+[Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
+
+Use with lunie-ng
+==
+[Configuration](network.json) for [lunie-ng](https://github.com/likecoin/lunie-ng)
+
 Please find additional rpc server, peers and seed provided by community in [rpc.md](rpc.md), [peers.md](peers.md) and [seeds.md](seeds.md)
