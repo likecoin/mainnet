@@ -22,3 +22,11 @@ https://sheungwan-node.like.co/rpc/
 LCD server
 ==
 https://sheungwan-node.like.co/
+
+Use with Keplr wallet
+==
+[Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
+
+Use with lunie-light
+==
+[Configuration](network.json) for [lunie-light](https://github.com/likecoin/lunie-light)
