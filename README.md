@@ -28,6 +28,14 @@ https://mainnet-node.like.co/rpc/
 
 https://mainnet-node.like.co/
 
+## GRPC server (Beta)
+
+`mainnet-node.like.co:443`
+
+## Websocket server (Beta)
+
+`wss://mainnet-node.like.co/rpc/websocket`
+
 ## Use with Keplr wallet
 
 [Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
