@@ -1,0 +1,106 @@
+global:
+  api-listen-addr: :5183
+  timeout: 1200s
+  light-cache-size: 100
+chains:
+- key: likecoin
+  chain-id: likecoin-mainnet-2
+  rpc-addr: http://likecoin-chain-node-fotan-rpc:26657
+  account-prefix: cosmos
+  gas-adjustment: 3
+  gas-prices: 10nanolike
+  trusting-period: 336h
+
+- key: osmosis
+  chain-id: osmosis-1
+  rpc-addr: http://osmosis-node-mainnet-rpc:26657
+  account-prefix: osmo
+  gas-adjustment: 10
+  gas-prices: 0.000uosmo
+  trusting-period: 240h
+
+- key: cosmos
+  chain-id: cosmoshub-4
+  rpc-addr: http://cosmos-node-mainnet-rpc:26657
+  account-prefix: cosmos
+  gas-adjustment: 3
+  gas-prices: 0.0025uatom
+  trusting-period: 336h
+
+paths:
+  likeosmos:
+    src:
+      chain-id: likecoin-mainnet-2
+      client-id: 07-tendermint-16
+      connection-id: connection-9
+      channel-id: channel-3
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    dst:
+      chain-id: osmosis-1
+      client-id: 07-tendermint-1507
+      connection-id: connection-1173
+      channel-id: channel-53
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    strategy:
+      type: naive
+  osmoslike:
+    src:
+      chain-id: osmosis-1
+      client-id: 07-tendermint-1507
+      connection-id: connection-1173
+      channel-id: channel-53
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    dst:
+      chain-id: likecoin-mainnet-2
+      client-id: 07-tendermint-16
+      connection-id: connection-9
+      channel-id: channel-3
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    strategy:
+      type: naive
+  likehub:
+    src:
+      chain-id: likecoin-mainnet-2
+      client-id: 07-tendermint-24
+      connection-id: connection-13
+      channel-id: channel-5
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    dst:
+      chain-id: cosmoshub-4
+      client-id: 07-tendermint-468
+      connection-id: connection-386
+      channel-id: channel-217
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    strategy:
+      type: naive
+  hublike:
+    src:
+      chain-id: cosmoshub-4
+      client-id: 07-tendermint-468
+      connection-id: connection-386
+      channel-id: channel-217
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    dst:
+      chain-id: likecoin-mainnet-2
+      client-id: 07-tendermint-24
+      connection-id: connection-13
+      channel-id: channel-5
+      port-id: transfer
+      order: UNORDERED
+      version: ics20-1
+    strategy:
+      type: naive
