@@ -15,7 +15,7 @@ chains:
   chain-id: osmosis-1
   rpc-addr: http://osmosis-node-mainnet-rpc:26657
   account-prefix: osmo
-  gas-adjustment: 10
+  gas-adjustment: 3
   gas-prices: 0.000uosmo
   trusting-period: 240h
 
