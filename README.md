@@ -6,9 +6,9 @@ codename: FoTan
 
 ## Current Software Version
 
-[fotan-1](https://github.com/likecoin/likecoin-chain/releases/tag/fotan-1) [`32056fc4759d276a11180256474cc4ed5e3ed8d4`](https://github.com/likecoin/likecoin-chain/commit/32056fc4759d276a11180256474cc4ed5e3ed8d4)
+[fotan-1.1](https://github.com/likecoin/likecoin-chain/releases/tag/fotan-1.1) [`9b924b3176ad7ce087727b8980f057650e218a02`](https://github.com/likecoin/likecoin-chain/commit/9b924b3176ad7ce087727b8980f057650e218a02)
 
-Base on Cosmos SDK v0.42.7
+Base on Cosmos SDK v0.42.9
 
 ## Genesis
 
