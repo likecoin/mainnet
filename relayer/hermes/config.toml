@@ -1,11 +1,24 @@
 [global]
-strategy = 'packets'
-filter = true
-# Valid options are 'error', 'warn', 'info', 'debug', 'trace'.
 log_level = 'info'
 
-clear_packets_interval = 100
+[mode]
 
+[mode.clients]
+enabled = true
+refresh = true
+misbehaviour = true
+
+[mode.connections]
+enabled = false
+
+[mode.channels]
+enabled = false
+
+[mode.packets]
+enabled = true
+clear_interval = 100
+clear_on_start = true
+filter = true
 tx_confirmation = true
 
 [rest]
