@@ -26,6 +26,8 @@ https://stake.like.co/
 
 https://likecoin.bigdipper.live/
 
+https://ping.pub/likecoin
+
 https://likecoin.omniflix.co/
 
 https://wallet.bitsong.io/
