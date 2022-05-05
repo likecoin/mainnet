@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-mainnet-2`
 
-codename: FoTan
+codename: LaiChiKok
 
 ## Current Software Version
 
-[fotan-1.2](https://github.com/likecoin/likecoin-chain/releases/tag/fotan-1.2) [`9bc9e51503214974cf70e1e2e8dd27b05ae91f9b`](https://github.com/likecoin/likecoin-chain/commit/9bc9e51503214974cf70e1e2e8dd27b05ae91f9b)
+[v2.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v2.0.0) [`2f3002c580f1a60f4c13d43da7426d1b430dd6d0`](https://github.com/likecoin/likecoin-chain/commit/2f3002c580f1a60f4c13d43da7426d1b430dd6d0)
 
-Base on Cosmos SDK v0.42.11
+Base on Cosmos SDK v0.44.8, with dual-prefix handler
 
 ## Genesis
 
