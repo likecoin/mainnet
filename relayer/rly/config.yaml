@@ -6,7 +6,7 @@ chains:
 - key: likecoin
   chain-id: likecoin-mainnet-2
   rpc-addr: http://likecoin-chain-node-fotan-rpc:26657
-  account-prefix: cosmos
+  account-prefix: like
   gas-adjustment: 3
   gas-prices: 10nanolike
   trusting-period: 336h

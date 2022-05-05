@@ -38,7 +38,7 @@ grpc_addr = 'http://likecoin-chain-node-fotan-api:9090'
 websocket_addr = 'ws://likecoin-chain-node-fotan-rpc:26657/websocket'
 
 rpc_timeout = '60s'
-account_prefix = 'cosmos'
+account_prefix = 'like'
 
 key_name = 'relayer'
 address_type = { derivation = 'cosmos' }
