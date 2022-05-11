@@ -53,6 +53,10 @@ https://mainnet-node-lcd.like.co/
 
 `wss://mainnet-node.like.co/rpc/websocket`
 
+## Faucet
+
+https://faucet.like.co/
+
 ## Use with Keplr wallet
 
 [Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
