@@ -6,7 +6,7 @@ codename: LaiChiKok
 
 ## Current Software Version
 
-[v2.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v2.0.0) [`2f3002c580f1a60f4c13d43da7426d1b430dd6d0`](https://github.com/likecoin/likecoin-chain/commit/2f3002c580f1a60f4c13d43da7426d1b430dd6d0)
+[v2.0.2](https://github.com/likecoin/likecoin-chain/releases/tag/v2.0.2) [`3a4ce8a6339cf9bc74caf0c5b1e3c0213b98f98e`](https://github.com/likecoin/likecoin-chain/commit/3a4ce8a6339cf9bc74caf0c5b1e3c0213b98f98e)
 
 Base on Cosmos SDK v0.44.8, with dual-prefix handler
 
