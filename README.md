@@ -47,7 +47,7 @@ https://mainnet-node-lcd.like.co/
 
 ## GRPC server (Beta)
 
-`mainnet-node.like.co:443`
+`mainnet-node-grpc.like.co:80`
 
 ## Websocket server (Beta)
 
