@@ -1,6 +1,6 @@
 {
   "chainId": "likecoin-mainnet-2",
-  "chainName": "LikeCoin chain",
+  "chainName": "LikeCoin",
   "rpc": "https://mainnet-node.like.co/rpc/",
   "rest": "https://mainnet-node.like.co",
   "stakeCurrency": {
