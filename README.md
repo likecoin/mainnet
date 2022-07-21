@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-mainnet-2`
 
-codename: LaiChiKok
+codename: StarFerry
 
 ## Current Software Version
 
-[v2.0.2](https://github.com/likecoin/likecoin-chain/releases/tag/v2.0.2) [`3a4ce8a6339cf9bc74caf0c5b1e3c0213b98f98e`](https://github.com/likecoin/likecoin-chain/commit/3a4ce8a6339cf9bc74caf0c5b1e3c0213b98f98e)
+[v3.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0) [`25ece428c3f3b35260e37c3192de188e6ebfaafd`](https://github.com/likecoin/likecoin-chain/tree/25ece428c3f3b35260e37c3192de188e6ebfaafd)
 
-Base on Cosmos SDK v0.44.8, with dual-prefix handler
+Base on Cosmos SDK v0.45.6, with dual-prefix handler
 
 ## Genesis
 
