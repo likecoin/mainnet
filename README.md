@@ -22,16 +22,9 @@ Base on Cosmos SDK v0.45.6, with dual-prefix handler
 
 ## Explorer and staking tools
 
-https://stake.like.co/
+https://dao.like.co/
 
 https://likecoin.bigdipper.live/
-
-https://ping.pub/likecoin
-
-https://likecoin.omniflix.co/
-
-https://wallet.bitsong.io/
-
 
 ## RPC server
 
@@ -53,16 +46,16 @@ https://mainnet-node-lcd.like.co/
 
 `wss://mainnet-node.like.co/rpc/websocket`
 
-## Faucet
-
-https://faucet.like.co/
-
 ## Use with Keplr wallet
 
 [Configuration](keplr.json) for Keplr [Suggest Chain](https://docs.keplr.app/api/suggest-chain.html) API
 
 ## Use with lunie-ng
 
-[Configuration](network.json) for [lunie-ng](https://github.com/likecoin/lunie-ng)
+[Configuration](network.json) for [lunie-ng](https://github.com/likecoin/tlunie-ng)
 
 Please find additional rpc server, peers and seed provided by community in [rpc.md](rpc.md), [peers.md](peers.md) and [seeds.md](seeds.md)
+
+## Applications and other useful tools
+
+Please find more info in [this repository](https://github.com/likecoin/likecoin#readme)
