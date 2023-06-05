@@ -2,7 +2,7 @@
 
 chain-id: `likecoin-mainnet-2`
 
-codename: StarFerry
+codename: ChungKing
 
 ## Current Software Version
 
