@@ -6,9 +6,9 @@ codename: StarFerry
 
 ## Current Software Version
 
-[v3.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v3.0.0) [`25ece428c3f3b35260e37c3192de188e6ebfaafd`](https://github.com/likecoin/likecoin-chain/tree/25ece428c3f3b35260e37c3192de188e6ebfaafd)
+[v4.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v4.0.0) [`5857d02a7a947cd367769afb6d733fd508a3f13e`](https://github.com/likecoin/likecoin-chain/tree/5857d02a7a947cd367769afb6d733fd508a3f13e)
 
-Base on Cosmos SDK v0.45.6, with dual-prefix handler
+Base on Cosmos SDK v0.46.12, with dual-prefix handler
 
 ## Genesis
 
