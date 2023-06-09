@@ -6,9 +6,9 @@ codename: [ChungKing](https://blog.like.co/en/likecoin-chain-upgrade-chungking/)
 
 ## Current Software Version
 
-[v4.0.0](https://github.com/likecoin/likecoin-chain/releases/tag/v4.0.0) [`5857d02a7a947cd367769afb6d733fd508a3f13e`](https://github.com/likecoin/likecoin-chain/tree/5857d02a7a947cd367769afb6d733fd508a3f13e)
+[v4.0.1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.0.1) [`75549c626a51bc6ec62b240207d93a5c7691ea28`](https://github.com/likecoin/likecoin-chain/tree/75549c626a51bc6ec62b240207d93a5c7691ea28)
 
-Base on Cosmos SDK v0.46.12, with [dual-prefix handler](https://github.com/likecoin/cosmos-sdk/tree/v0.46.12-dual-prefix)
+Base on Cosmos SDK v0.46.13, with [dual-prefix handler](https://github.com/likecoin/cosmos-sdk/tree/v0.46.13-dual-prefix)
 
 ## Genesis
 
