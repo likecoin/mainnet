@@ -9,7 +9,7 @@
     "coinDecimals": 9,
     "coinGeckoId": "likecoin"
   },
-  "walletUrlForStaking": "https://stake.like.co",
+  "walletUrlForStaking": "https://dao.like.co",
   "bip44": {
     "coinType": 118
   },
@@ -36,9 +36,9 @@
       "coinDecimals": 9,
       "coinGeckoId": "likecoin",
       "gasPriceStep": {
-        "low": 1,
-        "average": 10,
-        "high": 1000
+        "low": 1000,
+        "average": 10000,
+        "high": 1000000
       }
     }
   ],
