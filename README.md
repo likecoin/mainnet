@@ -2,13 +2,13 @@
 
 chain-id: `likecoin-mainnet-2`
 
-codename: [ChungKing](https://blog.like.co/en/likecoin-chain-upgrade-chungking/)
+codename: [ChungKing+](https://blog.like.co/en/likecoin-chain-upgrade-chungking/)
 
 ## Current Software Version
 
-[v4.0.1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.0.1) [`75549c626a51bc6ec62b240207d93a5c7691ea28`](https://github.com/likecoin/likecoin-chain/tree/75549c626a51bc6ec62b240207d93a5c7691ea28)
+[v4.1.1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.1.1) [`e84c626f03c92cc19a35a6e9fd57f29d113dbb1d`](https://github.com/likecoin/likecoin-chain/tree/e84c626f03c92cc19a35a6e9fd57f29d113dbb1d)
 
-Base on Cosmos SDK v0.46.13, with [dual-prefix handler](https://github.com/likecoin/cosmos-sdk/tree/v0.46.13-dual-prefix)
+Base on Cosmos SDK v0.46.15, with [dual-prefix handler](https://github.com/likecoin/cosmos-sdk/tree/v0.46.15-dual-prefix)
 
 ## Genesis
 
